@@ -18,3 +18,8 @@ correct, keys = WV_Function(pssh, lic_url)
 
 This above functions getting keys.
 
+Credits where credits are due:
+===============
+
+WKS
+The original person who made pywidevine :)
